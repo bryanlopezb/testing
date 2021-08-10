@@ -1,2 +1,2 @@
 # testing
-Repositorio de prueba para aprender
+Repositorio de prueba
